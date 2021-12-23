@@ -27,5 +27,6 @@ For running application from command line
 
 
 Run as service
+
     sudo ln -s /path_to_listings_jar/listings.jar /etc/init.d/listings-service
     sudo service listings-service start
