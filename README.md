@@ -10,7 +10,7 @@ Listing application backend
 Run the following scripts in setup/sql/ folder:
 
     database_schema.sql 
-	sales_inserts.sql
+	listing_inserts.sql
 
 Set configuration settings in support/HOME/config/
 
